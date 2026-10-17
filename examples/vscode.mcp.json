@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "quorum": {
+      "type": "http",
+      "url": "https://www.quorum.dog/mcp"
+    }
+  }
+}

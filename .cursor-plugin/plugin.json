@@ -1,0 +1,19 @@
+{
+  "name": "quorum",
+  "version": "1.0.0",
+  "description": "Compare AI perspectives on a question with configurable Quorum Modes.",
+  "author": {
+    "name": "Quorum AI"
+  },
+  "homepage": "https://www.quorumllm.com",
+  "keywords": [
+    "deliberation",
+    "second-opinion",
+    "decision-support",
+    "multi-model",
+    "architecture"
+  ],
+  "logo": "assets/quorum-icon.png",
+  "mcpServers": "mcp.json",
+  "repository": "https://github.com/quorum-dog/quorum-mcp"
+}
