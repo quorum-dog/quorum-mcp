@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.quorum-dog/quorum",
+  "title": "Quorum AI",
+  "description": "Compare AI perspectives with configurable Modes, estimate deliberations, and retrieve run receipts.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/quorum-dog/quorum-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://www.quorumllm.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.quorum.dog/mcp"
+    }
+  ]
+}
